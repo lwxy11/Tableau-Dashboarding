@@ -1,0 +1,1 @@
+This project explored data-related job market in the US with Tableau dashboarding. It extracted the latest Glassdoor data on job openings to uncover salary trends influenced by factors including location, industry, skillsets, and seniority.
